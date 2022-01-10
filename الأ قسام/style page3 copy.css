@@ -1,0 +1,691 @@
+
+
+main div{
+    border: solid red 3PX;
+    border-radius: 14%;
+    width: 22%;
+    height: 270PX;
+    transform: translate(50%);
+}
+MAIN div img{
+    width: 130PX;
+    height: 130PX;
+    POSITION: absolute;
+    LEFT: 28%;
+    BOTTOM: 50%;
+}
+.g {
+    position: absolute;
+    top: 2.5%;
+    left:25%;
+    font-size: 30px;
+    
+}
+.i {
+    position: absolute;
+    top: 10%;
+    left: 34%;
+    width: 35%;
+    height: 44%;
+}
+.m {
+    position: absolute;
+    top: 5%;
+    left: 29%;
+    width: 39%;
+    height: 46%;
+}
+#div{
+    position: absolute;
+    top: 35%;
+    right: 51%;
+}
+#divvv{
+    position: absolute;
+    top: 35%;
+    right:15%
+}
+#divv{
+    position: absolute;
+    top: 35%;
+    right: 84%;
+}
+.g{
+    width: 47%;
+    height: 61%;
+}
+.h{
+    transform: translate(35%,-19%);
+    font-size: 29px;
+
+
+    
+    color: white
+
+}
+.hh{
+   position: absolute;
+   top: 32%;
+   right: 35%;
+   color: white;
+   font-size: 32px;
+   
+}
+
+ .downloa {
+    position: absolute;
+    top: 78%;
+    right: 5%;
+    border-radius:4%;
+    border: solid  rgb(255, 174, 0) 3PX;
+    width: 91%;
+    height: 16%;
+    outline: none;
+    background-color: rgb(255, 174, 0);
+    font-size:24PX ;
+    font-family: A Jannat LT;
+    text-align: center;
+    cursor: pointer;
+    line-height:16% ;
+}
+
+    
+    
+
+
+.download:hover  {
+    background-color: rgb(0, 255, 0);
+
+
+}
+DIV button:HOVER{
+    border: solid rgb(0, 255, 0) 3PX;   
+
+}
+.download{
+    position: absolute;
+    top: 57%;
+    right: 5%;
+    border-radius:4%;
+    border: solid rgb(255, 174, 0) 3PX;
+    width: 91%;
+    height: 16%;
+    outline: none;
+    background-color: rgb(255, 174, 0);
+    font-size:24PX ;
+    font-family: A Jannat LT;
+    text-align: center; 
+    line-height: 16%;
+    cursor: pointer;
+}
+.downloa:hover{
+    background-color: rgb(0, 255, 0);
+}  
+.downloadd {
+    position: absolute;
+    top: 65%;
+    right: 5%;
+    border-radius:4%;
+    border: solid  rgb(255, 174, 0) 3PX;
+    width: 91%;
+    height: 22%;
+    outline: none;
+    background-color: rgb(255, 174, 0);
+    font-size:24PX ;
+    font-family: A Jannat LT;
+    text-align: center;
+    cursor: pointer;
+}
+
+.downloadd:hover  {
+    background-color: rgb(0, 255, 0);
+
+
+}
+
+@media only screen and (max-width:1057px) and (min-width:928px){
+    main div{
+        width: 28.5%;
+    }
+    
+}
+@media only screen and (max-width:1366px){
+    main div{
+        width:28.5% ;
+    }
+}
+@media only screen and (max-width:1280px){
+.hh{
+    right: 31%;
+}
+h1{
+    right: 36%;
+}
+.g{
+    height:56% ;
+    width: 49%;
+}
+.i{
+    height: 39%;
+}
+.m{
+    width: 44%;
+    height: 44%;
+    left: 28%;
+}
+
+    
+
+
+}
+@media only screen and (max-width:950px){
+    .g{
+        width:59%;
+        height: 56%;
+        left: 20%;
+    }
+    .i{
+        width: 43%;
+        left: 29%;
+    }
+    .m{
+        width: 50%;
+        left: 25%;
+    }
+}
+    
+
+
+
+
+@media only screen and (max-width:920px){
+    
+}
+@media only screen and (max-width:876px){
+    main div{
+        width: 28.5%;
+    }
+    .i{
+        height: 37%;
+    }
+    .g{
+        width: 61%;
+        height: 54%;
+
+    }
+}
+@media only screen and (max-width:844px){
+    .download{
+        font-size: 23px;
+    } 
+    
+}
+@media only screen and (max-width:814px){
+    .downloadd{
+        font-size: 23px;
+    }
+    .g{
+        width: 62%;
+        height: 52%;
+    }
+    .m{
+        width:53% ;
+        height: 40%;
+        left: 22%;
+    }
+
+    
+
+
+ }
+ @media only screen and (max-width:784px){
+    main div{
+        width: 28.5%;
+    }
+    .downloadd{
+        font-size: 22px;
+    }
+    .download{
+        font-size: 22px;
+    }
+    
+    
+
+    
+}
+@media only screen and (max-width:737px){
+    main div{
+        width: 49.5%;
+    }
+    .i{
+        left: 32%;
+    }
+    .m{
+        left: 32%;
+    }
+    #div{
+        top: 133%;
+    }
+    #divv{
+        top: 203%;
+        right: 51%;
+    }
+    #divvv{
+        top: 64%;
+        right: 51%;
+    }
+}
+
+@media only screen and (max-width:754px){
+    .downloadd,.download{
+        font-size: 21.5px;
+    }
+
+    
+        
+    
+}
+@media only screen and (max-width:575px){
+    
+    main div{
+        width: 47.5%;
+    }
+}
+@media only screen and (max-width:566px){
+    .download{
+        font-size: 20.5px;
+    }
+    main div{
+        width: 47.5%;
+    }
+    .i{
+        left: 29%;
+    }
+    .m{
+        left: 24%;
+    }
+}
+@media only screen and (max-width:540px){
+    main div{
+        width: 47.5%;
+    }
+    .i{
+        left: 29%;
+    }
+    .m{
+    left: 23%;
+    }
+}
+
+@media only screen and (max-width:500px){
+    #div{
+        top: 185%;
+    }
+    #divv{
+        top: 255%;
+        right: 51%;
+    }
+    #divvv{
+        top: 115%;
+        right: 51%;
+        
+    }
+    .g{
+        width: 51%;
+        left: 24%;
+    }
+    
+}
+@media only screen and (max-width:442px){
+    .downloadd{
+        font-size: 19px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 19px;
+    }
+}
+@media only screen and (max-width:433px){
+    .i,.m{
+        left: 27%;
+    }
+    main div
+    {
+        width: 50%;
+    }
+}
+@media only screen and (max-width:423px){
+    .download{
+        font-size: 19.5px;
+    }
+    main div
+    {
+        width: 50%;
+    }
+}
+@media only screen and (max-width:405px){
+    .download{
+font-size: 18.5px; 
+   }
+   .downloa{
+    font-size: 18.5px;
+    font-weight: bolder;
+
+}
+.i{
+    left: 29%;
+}
+.m{
+    left: 23%;
+}
+main div
+    {
+        width: 50%;
+    }
+
+}
+
+@media only screen and (max-width:386px){
+    main div
+    {
+        width: 50%;
+    }
+}
+.downloadd{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.g{
+    width:52% ;
+    height: 58%;
+    left: 24%;
+    top: 3%;
+}
+
+
+.i {
+    width: 37%;
+    height: 41%;
+    left: 32%;
+    top: 11.5%;
+    }
+.m{
+    width: 48%;
+    height: 46%;
+    left: 25%;
+    top: 7%;
+}
+
+@media only screen and (max-width:367px){
+    main div
+    {
+        width:50%;
+        
+    }
+    .download{
+        font-size: 16.5px;
+        font-weight: bolder;
+
+    }
+    .downloa{
+        font-size: 16.5px;
+
+    }
+    .i{
+        left: 28%;
+    }
+    .m{
+        left: 23%;
+    }
+    .downloadd{
+        font-size: 17px;
+    }
+}
+@media only screen and (max-width:358px){
+    .downloadd{
+        font-size: 16.5px;
+        font-weight: bolder;
+    }
+}
+
+@media only screen and (max-width:349px){
+    main div{
+        width: 51%;
+    }
+    .download{
+        font-size: 15.5px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 15.5px;
+        font-weight: bolder;
+
+    }
+    .downloadd{
+        font-size: 16px;
+    }
+    .i{
+        left: 25%;
+        width:51% ;
+        height: 36%;
+        top: 13.5%;        
+    }
+    .m{
+        left: 16%;
+        width:68% ;
+        height: 43%;
+    }
+    .g{
+        width: 75%;
+        left: 13%;
+        top: 6%;
+        height:53% ;
+    }
+    
+}
+@media only screen and (max-width:325px){
+    .download{
+        font-size: 14.5px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 14.5px;
+        font-weight: bolder;
+
+    }
+    .downloadd{
+        font-size: 15px;
+        font-weight: bolder;
+
+    }
+
+
+}
+
+@media only screen and (max-width:307px){
+    .download{
+        font-size: 13.5px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 13.5px;
+        font-weight: bolder;
+
+    }
+    .downloadd{
+        font-size: 14px;
+        font-weight: bolder;
+
+    }
+
+    
+}
+@media only screen and (max-width:290px){
+    .download{
+        font-size: 12px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 13px;
+        font-weight: bolder;
+
+    }
+    
+
+    main div img{
+        width: 90px;
+        height: 90px;
+    }
+     .m{
+        left: 17.5%;
+   }
+   .i{
+       left: 24.5%;
+   }
+    .g{
+        width: 70%;
+        left: 15%;
+        height: 42;
+    }
+    
+}
+@media only screen and (max-width:287px){
+    .downloadd{
+        font-size: 13px;
+        font-weight: bolder;
+    }
+}
+
+@media only screen and (max-width:269px){
+    .download{
+        font-size: 11.5px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 12px;
+        font-weight: bolder;
+
+    }
+    .downloadd{
+        font-size: 12px;
+    }
+
+    
+    
+}
+@media only screen and (max-width:265px){
+    .download{
+        font-size: 11.5px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 12px;
+        font-weight: bolder;
+
+    }
+    main div{
+        width: 53%;
+    }
+    .m{
+        left: 17%;
+   }
+   .i{
+       left: 26%;
+   }
+
+    
+    
+}
+@media only screen and (max-width:261px){
+    .download{
+        font-size: 11.5px;
+        font-weight: bolder;
+    }
+    .downloa{
+        font-size: 12px;
+        font-weight: bolder;
+
+    }
+    main div{
+        width: 57%;
+    }
+    
+    }
+    @media only screen and (max-width:242px){
+        .download{
+            font-size: 11.5px;
+            font-weight: bolder;
+        }
+        .downloa{
+            font-size: 12px;
+            font-weight: bolder;
+    
+        }
+        main div{
+            width: 55%;
+        }
+        .i{
+            left: 25%;
+       }
+       
+       .downloadd{
+        font-size: 12px;
+        font-weight: bolder;
+    }
+    }
+    @media only screen and (max-width:233px){
+        .downloadd{
+            font-size: 11px;
+            font-weight: bolder;
+        }
+    }
+
+    @media only screen and (max-width:225px){
+        .download{
+            font-size: 10.5px;
+            font-weight: bolder;
+        }
+        .downloa{
+            font-size: 11px;
+            font-weight: bolder;
+    
+        }
+        main div{
+            width: 57%;
+        }
+        .i,.m{
+            left: 15%;
+       }
+       
+    }
+    @media only screen and (max-width:209px){
+        .download{
+            font-size: 10px;
+            font-weight: bolder;
+        }
+        .downloa{
+            font-size: 11px;
+            font-weight: bolder;
+    
+        }
+        main div{
+            width: 57%;
+        }
+        .i{
+            left: 23%;
+       }
+       .m{
+           left: 17%;
+       }
+       .downloadd{
+           font-size: 10.9px;
+           font-weight: bolder;
+       }
+    }
+
+
+
+
+
+

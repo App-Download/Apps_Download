@@ -1,0 +1,602 @@
+body{
+    background-image: url(../Image/j.jpg);
+    
+}
+header{
+    background:rgb(5, 5, 5);
+    height: 77px;
+    margin: -17px -8px;
+    
+}
+header ul{
+    list-style-type: none;
+    
+    
+}
+
+header a{
+    text-decoration:none ;
+    color: white;
+}
+
+
+.a{
+    font-family: A Jannat LT;
+   display: inline-block;
+   
+   }
+
+#img{
+    width: 84px;
+    height: 84px;
+    position: absolute;
+    top: -0.8%;
+    left: 0%;
+}
+
+ .lii{
+    display: inline-block;
+    width:19%;
+    height: 77px; 
+    line-height: 77px;
+    font-size: 23px;
+    text-align: center;
+    background-color: red;
+    transform: translate(99.5%);
+    
+    
+
+    
+} 
+.li{
+    display: inline-block;
+    
+    width:19%;
+    height: 77px;        
+    line-height: 77px;
+    font-size: 23px;
+    text-align: center;
+    transform: translate(99.5%);
+
+    
+    
+    
+ 
+}
+.li:hover{
+    background-color: red;
+height: 77px;
+}
+ footer{
+        
+        position: absolute;
+        bottom: 0%;
+        left: 44%;
+        border-bottom:5px red solid ;
+        
+
+    }  
+    footer img{
+        clear: both;
+        width: 30px;
+        height: 30px;
+        padding-right:15px ;
+        transform: translate(17%);
+
+
+    }
+    footer img:hover {
+        width:45px ;
+        height:45px;
+        
+        
+    }
+    @media only screen and (max-width:1120px){
+        .li,.lii{
+            font-size: 21.5px;
+        }
+        
+        
+    
+        
+    }
+    @media only screen and (width:1024px) and (height:1366px){
+        #divvv{
+       right: 51%;
+       top: 11%;
+        }
+        #divv{
+            top: 68%;
+            right: 52%;
+        }
+        #div{
+            right: 52%;
+            top: 39%;
+        }
+
+    }
+
+    
+    @media only screen and (max-width:1024px){
+        footer{
+            left:43%;
+    
+        }
+    }
+
+
+
+    @media only screen and (max-width:1000px){
+        .li,.lii{
+            font-size: 20.5px;
+        }
+     
+    }
+    @media only screen and (max-width:920px){
+        .li,.lii{
+            font-size: 18.5px;
+        }
+    }
+    @media only screen and (max-width:800px){
+        .li,.lii{
+            font-size:17.5px ;
+        }
+        footer{
+            left: 42%;
+        }
+    }
+    @media only screen and (width:768px) and (height:1024px){
+        #divvv{
+       right: 49%;
+       top: 9%;
+        }
+        .i{
+            left: 20%;
+        }
+        #divv{
+            top: 67%;
+            right: 49%;
+        }
+        #div{
+            right: 49%;
+            top: 38%;
+        }
+
+    }
+    
+    @media only screen and (max-width:730px){
+        .li,.lii{
+            font-size:16.5px ;
+        }
+        footer{
+            left: 40%;
+        }
+    }
+    @media only screen and (max-width:678px) and (min-width:657px){
+        .li,.lii{
+            font-size:16px ;
+        }
+    }
+    @media only screen and (max-width:737px){
+        .li{
+            display: inline-block;
+            font-size: 14.5px;
+            font-weight: bolder;
+        }
+        header{
+            background: none;
+            transform: translate(0%,50%);
+        }
+        #img {
+            width: 140px;
+            height: 140px;
+            position: absolute;
+            top: -46.8% !important;
+            left: 40%;
+        }
+        .li,.lii{
+            transform: translate(-33.5%,0%)!important;
+            width: 24%;
+            font-size: 19px;
+            font-weight: unset;
+            
+        }
+        ul{
+            background-color: black;
+            transform: translate(0%,178%);
+        }
+        
+        
+        footer{
+            
+            left: 41%;
+            bottom: -160%;
+        }
+            header::before{
+                content: "App Download";
+                color: white;
+                font-size: 25px;
+                position: absolute;
+                right: 40.5%;
+                top: 124%;
+                
+
+                
+            }
+        footer img:hover{
+            width: 30px;
+            height:30px ;
+        }
+        #div,#divv,#divvv{
+            right: 51%;
+        }
+        
+        
+    
+        
+     }
+     @media only screen and (max-width:700px){
+        header::before{
+            content: "App Download";
+            color: white;
+            font-size: 25px;
+            position: absolute;
+            right: 40%;
+            top: 124%;
+            
+
+            
+        }
+
+    }
+    @media only screen and (max-width:670px){
+        header::before{
+            content: "App Download";
+            color: white;
+            font-size: 25px;
+            position: absolute;
+            right: 38%;
+            top: 124%;
+            
+
+            
+        }
+        #div,#divv,#divvv{
+            right: 51%;
+        }
+    }
+     @media only screen and (max-width:636px){
+        .li, .lii{
+            font-size: 16px;
+            font-weight: bolder;
+        }
+        footer{
+            
+            left: 39%;
+        
+    }
+    header::before{
+        right: 37%;
+    }
+
+
+    
+    
+    }
+    @media only screen and (max-width:580px){
+        header::before{
+            right: 35%;
+        }
+    }
+    @media only screen and (max-width:570px){
+        header::before{
+            right: 36%;
+        }
+    
+    }
+    
+    
+    
+    
+
+    
+    @media only screen and (max-width:580px){}
+    @media only screen and (max-width:580px){}
+
+
+    @media only screen and (max-width:575px){
+        .li, .lii{
+            font-size: 15px;
+            font-weight: bolder;
+        }
+        #img{left: 39%;}
+        footer{
+            
+            left: 37%;
+        
+    }
+    
+
+    
+
+        
+    }
+    @media only screen and (max-width:550px){
+        header::before{
+            right: 35%;
+        }
+    @media only screen and (max-width:545px){
+        .li, .lii{
+            font-size: 14px;
+            font-weight: bolder;
+        }
+        footer{
+            
+                left: 36%;
+            
+        }
+        @media only screen and (max-width:550px){
+            header::before{
+                right: 34%;
+            }
+    }
+    @media only screen and (max-width:500px){
+        .li,.lii{
+            display: block;
+            
+            background-color: black;
+            margin-top: 5px;
+        width: 100%;
+        text-align: center;
+        padding-left: 49.6%;
+        padding-right: 4%;
+        }
+        .lii{
+            background-color: red;
+        }
+        header ul{
+         background: none; 
+         transform: translate(0%,42%); 
+         width: 91%;  
+         
+        }
+        #img{
+            left: 37%;
+        }
+     footer img:hover{
+            width: 30px;
+            height: 30px;
+        }
+        footer{
+            
+            left: 35%;
+            bottom: -200%;
+        }
+    }
+    @media only screen and (max-width:480px){
+        header::before{
+            right: 33%;
+        }
+    }
+    @media only screen and (max-width:470px){
+        header::before{
+            right: 32%;
+        }
+    }
+    @media only screen and (max-width:450px){
+        #img{
+            left: 34%;
+        }
+        footer{
+            
+            left: 31.5%;
+        
+        }
+        .li{
+            padding-left: 47.6%;
+
+        }
+        #div,#divv,#divvv{
+            right: 49%;
+        }
+
+    }
+    @media only screen and (max-width:430px){
+        header::before{
+            right: 31%;
+        }
+    @media only screen and (max-width:420px){
+        header::before{
+        right: 30%;
+            }
+            footer{
+                left: 34.5%;
+            }
+    @media only screen and (max-width:400px){
+        header::before{
+        right: 29%;
+                }
+                #div,#divv,#divvv{
+                    right: 50%;
+                }
+                footer{
+                    bottom: -218%;
+                }
+    @media only screen and (max-width:380px){
+        header::before{
+        right: 28%;
+                    }
+    @media only screen and (max-width:370px){
+        header::before{
+        right: 27%;
+                      }
+                      #div,#divv,#divvv{
+                        right: 49%;
+                    }
+    @media only screen and (max-width:350px){
+        #img{
+            left: 34%;
+        }
+        header::before{
+            right: 25.5%;
+        }
+        footer{
+            
+            left: 31%;
+        }
+        .li,.lii{
+            padding-right: -1%;
+
+        }
+
+    }
+    @media only screen and (max-width:340px){
+        header::before{
+            right: 24.5%;
+        }
+        @media only screen and (max-width:330px){
+            header::before{
+                right: 25%;
+            }
+            
+        #img{
+            left: 31.5%;
+        }
+        .lii,.li{
+            padding-right: 10%;
+
+        }
+
+        }
+        @media only screen and (max-width:320px){
+            header::before{
+                right: 24%;
+            }
+            footer{
+                left: 29%;
+            }
+            @media only screen and (max-width:310px){
+                header::before{
+                    right: 23%;
+                }
+    @media only screen and (max-width:300px){
+        #div,#divv,#divvv{
+            right: 50%;
+        }
+        #img{
+            left: 28%;
+        }
+        .li,.lii{
+            padding-left: 42.6%;
+
+
+        }
+        header::before{
+            right: 24%;
+        }
+
+    }
+
+    @media only screen and (max-width:280px){
+        #img{
+            left: 26%;
+        }
+        footer{
+            
+            left: 26%;
+        }
+        header::before{
+            right: 22%;
+        }
+        
+    @media only screen and (max-width:270px){
+        #img{
+            left: 26%;
+        }
+        footer{
+            
+            left: 26%;
+        }
+        header::before{
+            right: 21%;
+        }
+
+    }
+    
+    @media only screen and (max-width:260px){
+        
+        header::before{
+            right: 20%;
+        }
+    @media only screen and (max-width:250px){
+        #div,#divv,#divvv{
+            right: 50%;
+        }
+        header::before{
+            right: 17%;
+        }
+    }
+
+    @media only screen and (max-width:240px){
+        footer{
+            
+            left: 24%;
+        }
+        header::before{
+            right: 16%;
+        }
+    }
+    @media only screen and (max-width:230px){
+        #img{
+            
+            left: 22%;
+        }
+        #div,#divv,#divvv{
+            right: 48%;
+        }
+        .li,.lii{
+            padding-left: 39.6%;
+
+        }
+    }
+    @media only screen and (max-width:225px){
+        footer{
+            left: 20%;
+        }
+    }
+    @media only screen and (max-width:220px){
+        #img{
+       left: 21%;
+        }
+        .li,.lii{
+            padding-left: 36.6%;
+
+        }
+        header::before{
+            right: 14%;
+        }
+    }
+
+    @media only screen and (max-width:210px){
+        #img{
+            left: 20%;
+        }
+        .li,.lii{
+            padding-left: 40.6%;
+
+        }
+        header::before{
+            right: 12%;
+        }
+        
+    }
+
+    @media only screen and (max-width:200px){
+        #div,#divv,#divvv{
+            right: 46%;
+        }
+        header::before{
+            right: 11%;
+        }
+        
+    
